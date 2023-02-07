@@ -1,0 +1,153 @@
+começar phyton
+1- variáveis
+2-tipos de dados
+3-condicionais
+ 
+              aula 1
+
+pq um software é criado
+para criar soluções para o dia a dia
+
+automação e solução de problema
+
+ algoritmo
+
+resolver problemas aprenda a analisar
+  
+
+      método 50's paramontar um algorítimo
+    -analise criticamente o problema e descubra:
+  (tente explicar este problema paravocê mesmo em voz alta e peça mais informações/investigue
+   mais até você compreender completamente o problema.)
+
+     1°Quais são os dados de entrada necessários?
+     2°O que devo fazer com estes dados?
+     3°Quais são as restrições deste problema?
+     4°Qual é o resultado esperado?
+     5°Qual é sequência de passos a ser feitas para chegar ao resultado esperado?
+
+     problema 1 - ligar paraalguém
+   1° quais são os dados de entrada necessários?
+   °um telefone
+   °um número de celular
+   
+   2° o que devo fazer com esses dados?
+   °devo usar o celular para discar para o meu amigo.  
+
+   3° Quais são as restrições deste problema?   
+    ° Caso meu amigo não atenda, devo deixar uma mensagem dizendo: "me ligue de volta"
+    
+   4° qual é o resultado esperado?
+   °conseguir falaar commeu amigo.
+
+   5° Qual é sequência de passos a serem feitas para chegar ao resultado esperado?
+   
+1.pegar o telefone
+2. se estiver travado por senha, destrave o celular
+3.verifique se há sinal da operadora
+4.nevegue até o discador do celular
+5.digite o número do seu amigo
+6.aperte no botãode "ligar"
+7.aguarde a ligação completar
+8.se a ligação completar, conversar com ele
+9.se a ligação não comletar, deixar uma mensagem dizendo "me ligue de volta"
+
+     escreva um programa que retorna o valor hora de um funcionário com base no seu 
+salário mensal e horas trabalhadas por mês. 
+     dados necessários:
+1-valor salário mês
+2-horas trabalhadas
+   o que devo fazer:
+3-dividir salário por horas trabalhadas
+    restrições
+4-valor entregues somente em formato de salário por hora
+    qual resultado esperado?
+5-valor hora que o funcionário recebe
+  
+        °perguntar quanto a pessoa ganha por mês
+        °guardar a informação
+        °perguntar quantas horas ele trabalha por mês
+        °guardar a informação
+        °calcular o valor hora da pessoa(salário mensal/ horas tralhadas)
+        °mostrar valor
+     
+        3° chute um número
+ escreva um programa que, ao iniciar gera um valor aleatóriode 1 a 10 e permite que o usuário
+chute um número até que o valor gerado no início doprograma seja chutado corretamente. 
+ o programa deve informar se o chute foi acima, abaixo ou igual ao valor aleatório gerado
+no iniício do programa.
+ 
+    °Dados necessário
+     1-uma função que gere números aleatórios de 1 a 10
+     2-entrada dos dados digitados
+    °o que devo fazer
+     3-mostrar se o chute foi acima, igual, abaixo do número gerado
+    °restrições
+     4-somente números de 1 a 10
+    °qual resultado esperado
+     5-dizer se foi acima, igual ou abaixo do que ele digitou.
+
+    -Devo pegar o valor aleatório de 1 a 10 que foi gerado e comparar com o valor que foi churado pelo usuário.
+    -Se o chute for maior ou menor que o valor gerado, alerar o usuário sobre isso e o deicar jogar novamente até que acerte
+o número que foi gerado. 
+    -o programa não deve ser finalizado até queum valor seja chutado  corretamente.
+    -o usuário deverá ser capaz de jogar quantas vezes quiser.
+    -o programa identificar que o valor chutado pelo usuário é igual ao valor gerado no início do programa.
+      
+      1-Código gerador de números aleatórios de 1 a 10
+      2-guarda o número
+      2-capturar o palpite do usuário
+      3-verifico o palpite se é números entre 1 e 10 senão for coloco uma mensagem pedindo números de 1 a 10
+      3-caso seja entre 1 a 10 guardo o número
+      4-comparo os valores
+      4-palpite maior ou menor, deix0 usuário continuar colocando o palpite
+      5-se for igual finalizo 	
+      
+	1-gerar um valor aleatório de 1 a 10
+        2-armazenar este valor
+	3-receber o chute do usuário
+	4-comparar o chute do usuário com o valor aleatório gerado.
+	5-se o chute for maior que o valor gerado, exibir "chutou alto" e volta ao passo 3
+	6-se o chute for menor que o valor gerado, exibir "chutou baixo" e volta ao passo 3
+	7-se o chute for igual ao valor gerado, exitir "acertou" e volta ao passo 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

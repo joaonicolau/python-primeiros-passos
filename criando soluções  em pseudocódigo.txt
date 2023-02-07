@@ -1,0 +1,190 @@
+	
+
+	1. Pseudocódigo
+	2. Fluxogramas
+	
+	°Qual é amelhor? /Qaul devo usar?
+  
+   Pseudocódigo
+   ° O pseudocódigo é uma descrição dos passos necessários para resolver um determinado proble-
+ma em uma linguagem natural, que não estáligada diretamente a uma linguagem de programação.
+   °pseudocódigonão é uma linguagem de programação
+   °A ideia todo do pseudocódigo é de escrever alguem uma linguagem natural que pode ser lida por 
+qualquer pessoa.
+   °pseudocódigo não é padronizado, pose ser escritos de várias maneiras. não há um padrão certo 
+ou errado de o escrever.
+   °não será processado porum computador 
+   °não substitui uma linguagem de programação real.
+   °deve ser usado apenas para criar uma lógica para resolver um problema e depois escrito em uma
+linguagem de programação real como python, javascript, c#,ou java.
+   °não vale a pena na minha visão se tornarum especialisata em pseudocódigo ou em linguagens de 
+"aprendizado" como a linguagem de programação "portugol"
+
+                          problema
+  
+   5s
+  1°quais são os dados de entrada necessários?
+  2°o que devo fazer com estes dados?
+  3°quais são as restrições deste problema?
+  4°quel é o resultado esperado?
+  5°qual é sequência de passos a ser feitas para chegar ao resultado esperado?(faça essa parte em
+pseudocódigo)
+  
+         -Escreva um programa que retorna o valor horade um funcionário com  base no seu salário
+mensal e horas trabalhadas por mês
+          
+          1- quais são os dados de entrada necessários?
+              
+              ° salário mensal
+              ° horas trabalhadas por mês
+
+          2- o que devo fazer com esses dados. 
+
+             °devo usar eles para calcular o valor hora que um funcionário recebe usando o cálcu-
+lo salário mensal/horas trabalhadas.
+
+          3- quais são as restrições deste problema? 
+   
+             °os valores devem ser entregues somente em formato de salário por hora
+ 
+          4- qual é o resultado esperado?
+ 
+             °o valor hora que um funcionário recebe.
+
+          5- qual é sequência de passos a ser feitas para chegar ao resultado esperado?
+
+             °input- palavra usada para receber dados do usuário
+             °print- exibir o resultado no console
+             °if condição- condicional que controla se algo deve ou não ser feito
+             °else- cláusula a ser executada caso nenhuma condicional if seja executada
+             °loop de X a Y- laço de repetição que irá iterar de X a Y
+             °looop de X em Y- laço de repetição que irá iterar X em uma coleção Y
+	     °while X- laço de repetição que acontecerá enquanto um condição for verdadeira
+
+             input salario_mensal
+             input horas_trabalhadas_por_mes
+             valor_hora=salario_mensal/
+             horas_trabalhadas_por_mes
+             print valor_hora         
+
+	Crie um programa que pede ao usuário seu nome e depois o dá boas-vindas
+        dizendo "X seja bem-vindo", onde X é o nome do usuário.
+
+        ° após receber o nome do usuário, eu devo exibir uma mensagem que diz
+        nome do usuário + seja bem-vindo.
+	°sem o nome não posso exibir a mensagem
+	°uma mensagem que exibe o nome do usuário + a mensagem "Seja bem-vindo"
+
+            input X 
+	    print X "Seja bem-vinda"
+
+         Crie um programa que receba 2 valores e exiba o maior entre eles.
+     
+	°receber o primeiro valor e recber segundo valor
+	°após receber os dois valores, devo os comparar e exibir qual é o 
+       maior valor entre eles
+	°eu devo possuir 2 números para que a comparação seja realizada
+	°exibir o maior valor entre os dois
+	
+
+	input numero_1
+        input numero_2
+	if numero_1>numero_2
+	  print "primeiro valor é maior"
+ 	else
+ 	  print "Segundo valor é maior"
+
+	Crie um número que receba um número e imprime seu fatorial.
+ 
+        °número        
+	°pegar o número multiplicar por seus antecessores exibir
+	°número inteiro e positivo
+	°é esperado que o fatorial do número seja recebido e exibido
+
+	input numero
+	if numero <0
+	   print "digite apenas números positivos"
+	fatorial = 1 
+	loop de 1 a numero
+          fatorial = fatorial*numero
+	print fatorial
+
+        some os valores de uma lista
+
+      dados uma coleção de dados "idades" (15,46,75,34,23) imprima na tela a
+   soma destes valores.
+  
+      	°a listas de idades
+	°somar as idades com a idade anterior até final da lista e imprimir a soma
+	°somente os valores na lista devem ser adicionados
+	°soma de todas as idades precisa ser exibida.
+
+	
+	   idades =[15,46,75,34,23]
+	   total=0
+	   loop idade em idades
+ 	       total=total+idade
+	   print total
+
+
+		escreva um programa que ao iniciar gera um valor
+	aleatório de 1 a 10 e permite que o usuário chute um núme-
+	ro até que o valor aleatório gerado no início do programa
+	seja chutado corretamente. O programa deve informar caso o 
+	chute tenha sido acima, abaixo ou igual ao valor aleatório 
+	gerado no início do programa.
+
+	°um valor aleatório de 1 a 10 e um chute do usuário
+	°comparar o chute com valor gerado dizer se foi >=< n°gerado
+	°valor do chute tem que ser de 1 a 10
+	°exibir na tela 1 entre 3 possibilidades "chute maior, menor ou 
+	acertou o chute"
+
+		input valor_aleatorio entre 1 a 10
+		acertou = falso
+		while acertou = falso
+			input chute	
+			if chute > valor_aleatorio
+				print "chute é maior que valor gerado"
+			if chute < valor_aleatorio
+				print "chute é menor que valor gerado"
+
+			if chute = valor_aleatorio
+				print "acertou o chute"
+				acertou = verdadeiro
+			else
+				print"você chutou um valor inválido"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

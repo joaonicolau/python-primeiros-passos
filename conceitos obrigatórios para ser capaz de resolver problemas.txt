@@ -1,0 +1,69 @@
+ Conceitos obrigatórios para ser capaz de resolver problemas
+
+1-variáveis
+2-condicionais
+3-laços de repetição
+4-coleções
+ 
+   Variáveis
+
+   escreva um programa que retorne o valor de um funcionário com base no seu salário mensal
+horas trabalhadas por mês
+	°salário mensal
+	°horas trabalhadas por mês
+	°valor hora
+   
+	condicionais
+	escreva um programa que, ao iniciar gera um valor aleatório de 1 a 10 e permite
+que o usuário chute um número até que o valor aleatóriogeradonoiniíciodo programa seja chutado
+corretamente o programa deve informar se o chute foi acima,abaixo ou igual ao valor aleatório
+gerado no início do programa
+     3 condicionais
+	maior		
+	menor	
+	igual
+
+   	laços de repetição
+ 
+	no mundo real ena programação, temos diversas situações onde precisamos fazer uma
+açãovárias vezes ou por uma determinada quantidadede vezes. 
+	°cotar um pão
+	°varrer o chão
+	°dar vários passos para chegar até um lugar
+
+  	ponto em comum
+	normalmente possuem um ponto inicial e um ponto final, ou em alguns casos uma condição
+que irá significar o final daquele laçode repetição.
+	COLEÇÃO
+	Em muitoscaso, você teráa necessidade de trabalhar com coleções de valores que estão arma
+zenados em um local só,ex:
+    °Convidados =['jeff', 'Amanda', 'Carol', 'Robert']
+    °numeros_premiados= [12,67,34,100,55]
+
+           Exemplo de uso de coleções- Chute o número
+ 
+   	Dado uma coleção de dados"idades"[15,46,75,34,23] imprima na tela a soma destes valores.
+
+	°definir o total como 0
+	°Passar por 1° valor e somar ele ao total
+	°Passar por 2° valor e somar ele ao total
+	°Passar por 3° valor e somar ele ao total
+	°Passar por 4° valor e somar ele ao total
+	°Passar por 5° valor e somar ele ao total
+	°Exibir o valor total
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
